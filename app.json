@@ -4,7 +4,7 @@
   "description": "A telegram bot that applies DYOR on images, gifs, and videos.",
   "keywords": ["telegram", "watermark", "bot"],
   "website": "https://aahnik.dev",
-  "repository": "https://github.com/aahnik/telewater",
+  "repository": "https://github.com/flipsider95/DYORIO",
   "logo": "https://i.ibb.co/McLf7VQ/file.png",
 
   "env": {
